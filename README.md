@@ -1,72 +1,107 @@
-# 🏠 Global Airbnb Performance Dashboard
+# 🏡 Global Airbnb Performance Dashboard | Power BI
 
-## Project Overview
+## ⚠️ Note
+The original Power BI (.pbix) file is not included in this repository because it exceeds GitHub's file size limit (100 MB). Dashboard screenshots are provided to showcase the report design, interactive visuals, and business insights.
 
-This Power BI dashboard analyzes Airbnb listings, reviews, ratings, host trust, seasonality, and market performance across major global cities.
 
-The dashboard is designed to provide business insights into listing growth, customer reviews, market share, pricing, and host verification.
+## 📌 Project Overview
+
+This Power BI dashboard analyzes Airbnb listings across major global cities to uncover insights into listing performance, customer reviews, host verification, pricing, and market trends. The dashboard provides interactive visualizations that help understand business performance and customer behavior.
 
 ---
 
-## Tools Used
+## 🛠️ Tools & Technologies
 
 - Power BI
 - Power Query
-- DAX
-- Excel
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
 
+---
 
-## Dashboard Pages
+## 📊 Dashboard Features
 
-### 1. Overview
+### 📈 Overview
 - Total Listings
-- Cities
-- Hosts
-- Property Types
-- Reviews
+- Total Reviews
+- Total Cities
+- Total Hosts
+- Property Type Distribution
 - Listing Growth Trend
 - Business Lifecycle Analysis
+- Interactive Filters
 
-### 2. Ratings
-- City-wise Ratings
-- Market Share
-- Superhost Analysis
-- Property Type Pricing
-- Heatmap of Rating Metrics
+### ⭐ Ratings Analysis
+- Average Ratings by City
+- Market Share Analysis
+- Host Verification Analysis
+- Property Type Price Comparison
+- Rating Heatmap
 
-### 3. Reviews
-- Review Frequency
+### 📝 Reviews Analysis
 - Monthly Review Trend
-- Top 5 Cities Seasonality
+- Review Distribution
+- Top 5 Cities by Reviews
+- Seasonality Analysis
 - Host Trust Analysis
-- Identity Verification
 
+---
 
-## Skills Demonstrated
+## 📌 Key Insights
 
-- Data Cleaning
-- Power Query
+- Paris records the highest number of Airbnb listings and customer reviews.
+- Entire Home/Apartments generate the largest share of listings.
+- Nearly 67% of hosts have completed identity verification.
+- Customer reviews increase during peak travel seasons.
+- Most listings receive only a small number of reviews, while a few highly popular listings account for a significant share of total reviews.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning & Transformation
 - Data Modeling
 - DAX Measures
-- KPI Cards
-- Conditional Formatting
-- Time Intelligence
-- Interactive Visualizations
-- Business Storytelling
+- KPI Design
+- Interactive Dashboard Development
+- Business Intelligence
+- Data Visualization
+- Report Design & Storytelling
 
 ---
 
-## Key Insights
+# 🖼️ Dashboard Preview
 
-- Paris has the highest listings and review volume.
-- Nearly 67% of hosts are fully verified.
-- Review activity peaks during summer months.
-- Most customers leave only one review.
-- Entire Place properties command the highest prices.
+## Overview
 
----
+![Overview](Overview.png)
 
-## Dashboard Preview
 
-(Add your screenshots here)
+## Ratings Analysis
 
+![Ratings](Ratings.png)
+
+
+
+## Reviews Analysis
+
+![Reviews](Reviews.png)
+
+
+## 📂 Repository Contents
+
+- README.md
+- Dashboard Screenshots
+
+
+
+## 📬 Connect With Me
+
+**LinkedIn: www.linkedin.com/in/
+tanvi-hulavale-6859b9322
+
+
+**GitHub: tanvihulavale6-GH
+
+
+⭐ If you found this project interesting, feel free to star the repository and share your feedback!
