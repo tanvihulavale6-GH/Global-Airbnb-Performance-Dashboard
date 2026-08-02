@@ -97,8 +97,7 @@ This Power BI dashboard analyzes Airbnb listings across major global cities to u
 
 ## 📬 Connect With Me
 
-**LinkedIn: www.linkedin.com/in/
-tanvi-hulavale-6859b9322
+**LinkedIn: www.linkedin.com/in/tanvi-hulavale-6859b9322
 
 
 **GitHub: tanvihulavale6-GH
